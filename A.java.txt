@@ -2,6 +2,8 @@ class A{
 void main(){
 
 }
-void add(){}
+void add(int x.int y){
+int z = x + y;
+}
 
 }

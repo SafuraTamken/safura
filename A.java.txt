@@ -10,6 +10,3 @@ int z = x + y;
 //working on feature-5
 
 }
-//branch feature-3
-
-//branch feature-4

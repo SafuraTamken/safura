@@ -1,4 +1,4 @@
-
+//modified by outsider
 class A{
 void main(){
 
